@@ -1,5 +1,5 @@
 # GraPARI-MCS
-Maintenance Check System
+Maintenance Check System using PHP & Laravel 5.8 Framework
 
 Before running the app migrate the database by using 
 ```
